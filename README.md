@@ -22,7 +22,7 @@ This is a React Dropdown Project which is built using Reactjs ,CSS  , Bootstrap.
 
 
 ## 🔗 Links
-> ## CheckOut the website link https://dropdown-reactjs.netlify.app/
+> ## CheckOut the website link https://gamegenreselector.netlify.app/
 <br/>
 <br/>
 
